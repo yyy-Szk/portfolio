@@ -141,13 +141,13 @@ ul, li {
 }
 
 .about .container {
-  display: flex;
   margin: 30px;
 }
 
 .about img {
   height: 300px;
   width: 300px;
+  margin: auto;
 }
 
 .about .desc p {
@@ -159,7 +159,6 @@ ul, li {
 }
 
 .skill .container {
-  display: flex;
   margin: 30px;
 }
 
@@ -233,13 +232,7 @@ ul, li {
 }
 
 .work .container {
-  display: flex;
-  margin: 30px;
-}
-
-.work .image_box {
-  /* height: 100%;
-  width: 100%; */
+  text-align: center;
 }
 
 .work .image_box span {
@@ -247,9 +240,14 @@ ul, li {
   font-weight: bold;
 }
 
+.work .works {
+  margin-top: 30px;
+}
+
 .work img {
   height: 210px;
   width: 420px;
+  margin: auto;
 }
 
 .work .desc p {
