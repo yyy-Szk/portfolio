@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "14ca52d34905191ad808",
-    "url": "/portfolio/static/css/main.3757c381.chunk.css"
+    "revision": "4620e6fb7dca0eb29274",
+    "url": "/portfolio/static/css/main.7fce2971.chunk.css"
   },
   {
-    "revision": "14ca52d34905191ad808",
-    "url": "/portfolio/static/js/main.27ea72f8.chunk.js"
+    "revision": "4620e6fb7dca0eb29274",
+    "url": "/portfolio/static/js/main.4b9d1a1f.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
     "url": "/portfolio/static/js/runtime~main.f308c8e6.js"
   },
   {
-    "revision": "bc9e213220f85ecf4864",
-    "url": "/portfolio/static/js/2.501d70a8.chunk.js"
+    "revision": "f51547fa5854044eba48",
+    "url": "/portfolio/static/js/2.29fb8aa0.chunk.js"
   },
   {
     "revision": "4fa83c48f12d491ce67b39045a1d362d",
@@ -22,6 +22,14 @@ self.__precacheManifest = [
   {
     "revision": "9bea711ce70c101011a10aba5d09d3f8",
     "url": "/portfolio/static/media/hair-more.9bea711c.png"
+  },
+  {
+    "revision": "66ec7ac8a561d3f717682c19efbbacde",
+    "url": "/portfolio/static/media/gucchier.66ec7ac8.png"
+  },
+  {
+    "revision": "2a5f9a82ca971439c72475346d861f4d",
+    "url": "/portfolio/static/media/personal-diary.2a5f9a82.png"
   },
   {
     "revision": "41f6a2673fb6743b37b5741e3a265927",
@@ -56,7 +64,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/rails.4b563395.png"
   },
   {
-    "revision": "efe824a9228b3a601b17ad070bc91f73",
+    "revision": "4882b67f052f45013b044ecd38efcb93",
     "url": "/portfolio/index.html"
   }
 ];
