@@ -15,9 +15,11 @@ class Work extends React.Component {
           <Grid container className="container">
             <Grid item xs={12} className="works image_box">
               <img src={personal_diary} alt="personal_diary"/>
-              <a href="https://github.com/Yoshimasa-Suzuki/gucchier" target="_blank" rel="noopener noreferrer">github</a>
+              <a href="https://github.com/Yoshimasa-Suzuki/frontend-personal-diary" target="_blank" rel="noopener noreferrer">github(フロント)</a>
               /
-              <a href="https://polar-retreat-48576.herokuapp.com/" target="_blank" rel="noopener noreferrer">heroku</a>
+              <a href="https://github.com/Yoshimasa-Suzuki/backend-personal-diary" target="_blank" rel="noopener noreferrer">github(バック)</a>
+              /
+              <a href="https://personal-diary-react-frontend.herokuapp.com/" target="_blank" rel="noopener noreferrer">heroku</a>
             </Grid>
             <div class="desc">
               <p>　１日ごとにリセットされるメモの機能とその日の出来事をまとめておく日記を書くというシンプルなサービス</p>
