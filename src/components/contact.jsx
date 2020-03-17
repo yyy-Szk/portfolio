@@ -18,10 +18,6 @@ class Contact extends React.Component {
             <a href="https://www.facebook.com/profile.php?id=100021899183437" target="_blank" rel="noopener noreferrer"><img src={facebook} alt="facebook" /></a>
             <p>Facebook</p>
           </div>
-          <div style={{textAlign: 'center', marginLeft: 50}}>
-            <a href="https://twitter.com/s45k92" target="_blank" rel="noopener noreferrer"><img src={twitter} alt="twitter" /></a>
-            <p>twitter</p>
-          </div>
         </div>
       </div>
     )
