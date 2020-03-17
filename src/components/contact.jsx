@@ -10,7 +10,7 @@ class Contact extends React.Component {
         <div class="inner">
           <h1>連絡先</h1>
           <div class="desc">
-            <p>　お問い合わせは、各種SNSからお願いします。以下のリンクはボクの、Twitter、Facebookです。</p>
+            <p>　お問い合わせは、各種SNSからお願いします。以下のリンクは私のFacebookです。</p>
           </div>
         </div>
         <div class="container">
