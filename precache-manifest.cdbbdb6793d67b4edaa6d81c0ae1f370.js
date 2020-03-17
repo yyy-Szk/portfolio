@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "8bc3606c4124e8c947c9",
+    "revision": "890aedcf11b714f1b228",
     "url": "/portfolio/static/css/main.7fce2971.chunk.css"
   },
   {
-    "revision": "8bc3606c4124e8c947c9",
-    "url": "/portfolio/static/js/main.dec71771.chunk.js"
+    "revision": "890aedcf11b714f1b228",
+    "url": "/portfolio/static/js/main.2aada6ca.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
     "url": "/portfolio/static/js/runtime~main.f308c8e6.js"
   },
   {
-    "revision": "f51547fa5854044eba48",
-    "url": "/portfolio/static/js/2.29fb8aa0.chunk.js"
+    "revision": "8a1c96a03cfbcdb48a92",
+    "url": "/portfolio/static/js/2.309acdaa.chunk.js"
   },
   {
     "revision": "4fa83c48f12d491ce67b39045a1d362d",
@@ -30,10 +30,6 @@ self.__precacheManifest = [
   {
     "revision": "2a5f9a82ca971439c72475346d861f4d",
     "url": "/portfolio/static/media/personal-diary.2a5f9a82.png"
-  },
-  {
-    "revision": "41f6a2673fb6743b37b5741e3a265927",
-    "url": "/portfolio/static/media/twitter.41f6a267.jpg"
   },
   {
     "revision": "664a8c00ef526bf33edf55808601d461",
@@ -64,7 +60,11 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/rails.4b563395.png"
   },
   {
-    "revision": "bfd99425c71cf8c8e6c3de6a8b74e547",
+    "revision": "41f6a2673fb6743b37b5741e3a265927",
+    "url": "/portfolio/static/media/twitter.41f6a267.jpg"
+  },
+  {
+    "revision": "49a3fe5bc0b97a704b64ab16e033d004",
     "url": "/portfolio/index.html"
   }
 ];
